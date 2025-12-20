@@ -18,7 +18,8 @@ A modern, production-ready template for building full-stack React applications u
 - 🎉 TailwindCSS for styling
 - 📖 [React Router docs](https://reactrouter.com/)
 - 🔎 Built-in Observability to monitor your Worker
-<!-- dash-content-end -->
+    <!-- dash-content-end -->
+    
 
 ## Getting Started
 
